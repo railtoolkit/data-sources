@@ -1,0 +1,11 @@
+default: true
+
+# Allow long lines (URLs in tables make strict line length impractical)
+MD013: false
+
+# Allow duplicate headings (data source names may repeat across categories)
+MD024:
+  siblings_only: true
+
+# Allow inline HTML (badges, images)
+MD033: false
