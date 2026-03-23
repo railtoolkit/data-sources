@@ -52,4 +52,4 @@ The public site is built from this repository with Jekyll (see `_config.yml`). T
 2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
 3. Choose branch **main** and folder **/** (root), then save.
 
-The site URL is `https://railtoolkit.github.io/data-sources/` (replace `data-sources` if the repository name differs).
+The public URL is **`https://www.railtoolkit.org/data-sources/`** (custom domain; hosting is still GitHub Pages from this repo). The default `*.github.io` URL remains available unless you disable it.

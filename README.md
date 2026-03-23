@@ -6,7 +6,7 @@
 
 A community-curated list of datasets and data sources relevant to the railways worldwide.
 
-**Website:** [railtoolkit.github.io/data-sources](https://railtoolkit.github.io/data-sources/) (this README, published with [GitHub Pages](https://pages.github.com/) and Jekyll).
+**Website:** [www.railtoolkit.org/data-sources](https://www.railtoolkit.org/data-sources/) (this README, published with [GitHub Pages](https://pages.github.com/) and Jekyll).
 
 Whether you work in railway operations, infrastructure planning, research, or software development — this list aims to help you find the data you need. Contributions are welcome via [pull request](CONTRIBUTING.md).
 

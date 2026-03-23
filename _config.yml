@@ -2,6 +2,10 @@ theme: jekyll-theme-minimal
 title: Railway Data Sources
 description: A community-curated list of datasets and data sources relevant to the railways worldwide.
 
+# Canonical URL (custom domain + path). Helps Jekyll generate correct links when not served from repo root.
+url: https://www.railtoolkit.org
+baseurl: /data-sources
+
 exclude:
   - README options for later.md
   - .markdownlint.yaml
