@@ -43,3 +43,13 @@ Short description of what the data contains and why it’s useful for railways.
 Improvements to existing entries (fixing links, adding fields) are welcome too. For a new category, open an [issue](https://github.com/railtoolkit/data-sources/issues) first or suggest it in your pull request.
 
 Be respectful and constructive — this is a volunteer-maintained project.
+
+## GitHub Pages (maintainers)
+
+The public site is built from this repository with Jekyll (see `_config.yml`). To enable or change deployment:
+
+1. Open the repository on GitHub → **Settings** → **Pages**.
+2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+3. Choose branch **main** and folder **/** (root), then save.
+
+The site URL is `https://railtoolkit.github.io/data-sources/` (replace `data-sources` if the repository name differs).

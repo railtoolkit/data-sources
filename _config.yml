@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Railway Data Sources
+description: A community-curated list of datasets and data sources relevant to the railways worldwide.
+
+exclude:
+  - README options for later.md
+  - .markdownlint.yaml
+  - .github/
