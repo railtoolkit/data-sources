@@ -24,27 +24,27 @@ Data on track networks, stations, bridges, tunnels, gauges, and other physical r
 
 A detailed map of the world's railway infrastructure built on OpenStreetMap data. Covers tracks, stations, signals, electrification, gauges, speeds, and more. Viewers on the Railway related part can be found [OpenRailwayMap.org](https://www.openrailway.org/) or [OpenRailwayMap.app](https://www.openrailway.app/)
 
-| Field    | Value                                                                |
-| -------- | -------------------------------------------------------------------- |
-| Provider | OpenStreetMap contributors                                           |
-| Region   | International                                                        |
+| Field    | Value                                                                              |
+| -------- | ---------------------------------------------------------------------------------- |
+| Provider | OpenStreetMap contributors                                                         |
+| Region   | International                                                                      |
 | Access   | [Overpass API / OSM data export](https://wiki.openstreetmap.org/wiki/Overpass_API) |
-| Format   | OSM XML, PBF, GeoJSON (via Overpass)                                 |
-| License  | ODbL 1.0                                                             |
-| Updated  | Continuously (community-maintained)                                  |
+| Format   | OSM XML, PBF, GeoJSON (via Overpass)                                               |
+| License  | ODbL 1.0                                                                           |
+| Updated  | Continuously (community-maintained)                                                |
 
 ### [RINF — Register of Infrastructure](https://rinf.era.europa.eu/)
 
 The official EU register of railway infrastructure maintained by the European Union Agency for Railways (ERA). Contains detailed data on lines, tracks, tunnels, platforms, and operational parameters across EU member states.
 
-| Field    | Value                                                     |
-| -------- | --------------------------------------------------------- |
-| Provider | European Union Agency for Railways (ERA)                  |
-| Region   | EU member states                                          |
-| Access   | [Web search & export](https://rinf.era.europa.eu/)       |
-| Format   | XML, CSV (via export)                                     |
-| License  | Reuse permitted under EU legal framework                  |
-| Updated  | Periodically by national infrastructure managers          |
+| Field    | Value                                              |
+| -------- | -------------------------------------------------- |
+| Provider | European Union Agency for Railways (ERA)           |
+| Region   | EU member states                                   |
+| Access   | [Web search & export](https://rinf.era.europa.eu/) |
+| Format   | XML, CSV (via export)                              |
+| License  | Reuse permitted under EU legal framework           |
+| Updated  | Periodically by national infrastructure managers   |
 
 ---
 
