@@ -33,7 +33,7 @@ A detailed map of the world's railway infrastructure built on OpenStreetMap data
 | License  | ODbL 1.0                                                                           |
 | Updated  | Continuously (community-maintained)                                                |
 
-### [RINF — Register of Infrastructure](https://rinf.era.europa.eu/)
+### [RINF — Register of Infrastructure](https://rinf.data.era.europa.eu/)
 
 The official EU register of railway infrastructure maintained by the European Union Agency for Railways (ERA). Contains detailed data on lines, tracks, tunnels, platforms, and operational parameters across EU member states.
 
@@ -41,7 +41,7 @@ The official EU register of railway infrastructure maintained by the European Un
 | -------- | -------------------------------------------------- |
 | Provider | European Union Agency for Railways (ERA)           |
 | Region   | EU member states                                   |
-| Access   | [Web search & export](https://rinf.era.europa.eu/) |
+| Access   | [Web search & export](https://rinf.data.era.europa.eu/) |
 | Format   | XML, CSV (via export)                              |
 | License  | Reuse permitted under EU legal framework           |
 | Updated  | Periodically by national infrastructure managers   |
